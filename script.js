@@ -47,7 +47,7 @@ actionSpeech = (speechText) => {
       document.body.style.color="#FFFFFF";
       break;
     case  "reset":
-      document.body.style.background = "#ffe6ab";
+      document.body.style.background = "#eee";
       document.body.style.color="#000000";
       image1.classList.add("hide"); // hide image (if any)
       break;
